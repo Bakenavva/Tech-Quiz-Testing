@@ -1,0 +1,11 @@
+[
+    {
+      "question": "Which is the correct answer?",
+      "answers": [
+        { "text": "Pick This One", "isCorrect": true },
+        { "text": "Don't Click Me", "isCorrect": false },
+        { "text": "UNHAND ME", "isCorrect": false },
+        { "text": "Why would you consider this?", "isCorrect": false }
+      ]
+    }
+]
