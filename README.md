@@ -53,7 +53,7 @@ This project is licensed under the MIT license.
 - [Video Demo](https://drive.google.com/file/d/13Sp4HPOhethdsF_LIVo7Gz3KzzZBqEzO/view?usp=sharing)
 
 ## Contributions
-- Trobleshooting aid via use of stack overflow, cypress docs, & various google inquiries
+- Troubleshooting aid via use of stack overflow, cypress docs, & various google inquiries
 
 ## Questions
 Further questions can reach me via:
